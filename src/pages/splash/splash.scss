@@ -1,0 +1,19 @@
+page-splash {
+	.swiper-container  {
+		padding-top: 40px;
+	}
+	.swiper-slide {
+		text-align: unset;
+		.slide-zoom {
+			text-align: unset;
+		}
+	}
+	a {
+		color: #fff;
+		line-height: 25px;
+	}
+	.toolbar-title {
+		font-size: 20px;
+	    font-weight: bold;
+	}
+}
